@@ -2,8 +2,15 @@ Hi, my name is Eddú (:jp: エドゥ), I'm a Time Zone Traveler and Software Eng
 
 From: Ica, Peru :peru:  
 Current Location: CDMX, Mexico :mexico:  
-Last visited country: :canada:  
-Favorite food: :sushi: :ramen:  
+Last visited country: :canada:   
+<details>
+<summary>Favorite food</summary>
+
+* Peruvian: causa, ceviche, carapulcra, sopa seca
+* Japanese: :sushi: :ramen:
+* Brazilian: feijoada
+* Mexican: :taco: (arrachera, cochinita, pastor), pozole
+</details>
 Favorite TV show: How I Met Your Mother (HIMYM)  
 Workouts: 🚶🏽‍♂️ 🏃🏽‍♂️
 
@@ -46,5 +53,7 @@ Projects I've contributed:
 * [spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp)
 * [spring-cloud-aws](https://github.com/awspring/spring-cloud-aws)
 * [spring-boot](https://github.com/spring-projects/spring-boot)
+
+Would you like to talk about Java, Spring, Testcontainers? You can schedule 30 min talk [here](https://calendly.com/eddumelendez/30min).
 
 You can sponsor me [here](https://github.com/sponsors/eddumelendez).
