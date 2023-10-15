@@ -54,6 +54,6 @@ Projects I've contributed:
 * [spring-cloud-aws](https://github.com/awspring/spring-cloud-aws)
 * [spring-boot](https://github.com/spring-projects/spring-boot)
 
-Would you like to talk about Java, Spring, Testcontainers? You can schedule 30 min talk [here](https://calendly.com/eddumelendez/30min).
+Would you like to talk about Java, Spring, Testcontainers? You can schedule 30 min talk [here](https://calendar.app.google/DXkAGpvZPnPYnEUo9).
 
 You can sponsor me [here](https://github.com/sponsors/eddumelendez).
